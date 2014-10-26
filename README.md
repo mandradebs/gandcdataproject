@@ -7,7 +7,7 @@ The script does the following: first, merges the training and the test sets to c
 
 The final data set has the following varibles:
 
-Subject: 1:30, ach number is an identifier of the subject who carried out the experiment..
+Subject: 1:30, ach number is an identifier of the subject who carried out the experiment.
 Activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING or LAYING.
 
 For the following variables presents the average, for each activity and each subject.
